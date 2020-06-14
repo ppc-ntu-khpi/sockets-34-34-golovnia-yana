@@ -1,8 +1,8 @@
 # Створення сокет-клієнта
 ![](socket.png)
 
-<img src="https://github.com/ppc-ntu-khpi/sockets-34-34-golovnia-yana/blob/master/image1.png" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/sockets-34-34-golovnia-yana/blob/master/image2.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/sockets-34-34-golovnia-yana/blob/master/image1.png" width="70%"/>
+<img src="https://github.com/ppc-ntu-khpi/sockets-34-34-golovnia-yana/blob/master/image2.png" width="70%"/>
 
 
 ### Завдання на "п'ять"
